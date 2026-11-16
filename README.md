@@ -16,8 +16,8 @@ demos: [Vital](https://loyalty-open.onrender.com/vital) ·
 
 ▶ **[Watch the walkthrough (1:46)](media/walkthrough.mp4)**
 
-> The source code is private. It is available on request for a review — get in touch through
-> [my GitHub profile](https://github.com/OlehPavlushenko).
+> The source code is private. It is available on request for a review — get in touch on
+> [LinkedIn](https://www.linkedin.com/in/oleh-pavlushenko-415a5115b/).
 
 ## The configurator
 
@@ -95,7 +95,7 @@ Shopify Admin API and CLI · Playwright · ffmpeg
 
 ## About
 
-A solo portfolio project by Oleh Pavlushenko. Not on sale; downloads from the configurator are
+A solo portfolio project by [Oleh Pavlushenko](https://www.linkedin.com/in/oleh-pavlushenko-415a5115b/). Not on sale; downloads from the configurator are
 currently by invitation.
 
 <sub>Music in the walkthrough: “Wallpaper” by Kevin MacLeod (incompetech.com), licensed under CC BY 4.0.</sub>
